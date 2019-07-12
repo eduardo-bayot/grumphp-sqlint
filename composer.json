@@ -1,5 +1,5 @@
 {
-    "name": "edubayot/grumphp-sqllint",
+    "name": "edubayot/grumphp-sqlint",
     "description": "This package extends Grumphp with a task to run sqlint",
     "authors": [
         {
