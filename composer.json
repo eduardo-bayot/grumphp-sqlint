@@ -1,0 +1,19 @@
+{
+    "name": "edubayot/grumphp-sqllint",
+    "description": "This package extends Grumphp with a task to run sqlint",
+    "authors": [
+        {
+            "name": "Eduardo Bayot",
+            "email": "ebayot@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "phpro/grumphp": "^0.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edubayot\\GrumPHP\\": "src/"
+        }
+    }
+}
